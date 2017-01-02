@@ -1,0 +1,24 @@
+D:\Documents\TELERIK ACADEMY\Scratches\Reporter\Reporter\bin\Debug\Reporter.exe.config
+D:\Documents\TELERIK ACADEMY\Scratches\Reporter\Reporter\obj\Debug\Reporter.csprojResolveAssemblyReference.cache
+D:\Documents\TELERIK ACADEMY\Scratches\Reporter\Reporter\bin\Debug\Reporter.exe
+D:\Documents\TELERIK ACADEMY\Scratches\Reporter\Reporter\bin\Debug\Reporter.pdb
+D:\Documents\TELERIK ACADEMY\Scratches\Reporter\Reporter\obj\Debug\Reporter.exe
+D:\Documents\TELERIK ACADEMY\Scratches\Reporter\Reporter\obj\Debug\Reporter.pdb
+C:\Users\VLADominator\Desktop\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.exe.config
+C:\Users\VLADominator\Desktop\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.exe
+C:\Users\VLADominator\Desktop\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.pdb
+C:\Users\VLADominator\Desktop\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.exe
+C:\Users\VLADominator\Desktop\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.pdb
+C:\Users\VLADominator\Desktop\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.csprojResolveAssemblyReference.cache
+D:\Documents\QA Work\Test Automation Report\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.exe.config
+D:\Documents\QA Work\Test Automation Report\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.exe
+D:\Documents\QA Work\Test Automation Report\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.pdb
+D:\Documents\QA Work\Test Automation Report\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.exe
+D:\Documents\QA Work\Test Automation Report\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.pdb
+D:\Documents\QA Work\Test Automation Report\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.csprojResolveAssemblyReference.cache
+C:\Users\VLADominator\Desktop\Test Automation Report\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.exe.config
+C:\Users\VLADominator\Desktop\Test Automation Report\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.exe
+C:\Users\VLADominator\Desktop\Test Automation Report\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.pdb
+C:\Users\VLADominator\Desktop\Test Automation Report\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.exe
+C:\Users\VLADominator\Desktop\Test Automation Report\Test Automation Report\Reporter\Reporter\bin\Debug\Reporter.pdb
+C:\Users\VLADominator\Desktop\Test Automation Report\Test Automation Report\Reporter\Reporter\obj\Debug\Reporter.csprojResolveAssemblyReference.cache
